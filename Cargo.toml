@@ -1,0 +1,10 @@
+[package]
+name = "memlyze-image"
+version = "0.1.0"
+authors = ["illemonati <tonymiaotong@tioft.tech>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+image = "0.21.2"
